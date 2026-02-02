@@ -1,0 +1,61 @@
+{
+  "@@locale": "en",
+
+  "appName": "AapleTruck",
+  "appTagline": "Move smarter, faster",
+
+  "getStartedTitle": "Let’s get started",
+  "continueWithGoogle": "Continue with Google",
+  "continueWithMobile": "Continue with Mobile",
+  "continueWithEmail": "Continue with Email",
+
+  "enterMobileTitle": "Enter mobile number",
+  "mobileHint": "Mobile number",
+  "continue": "Continue",
+
+  "enterOtpTitle": "Enter OTP",
+  "otpSentTo": "Sent to {contact}",
+  "@otpSentTo": {
+    "placeholders": {
+      "contact": {}
+    }
+  },
+
+  "resendCodeIn": "Resend code in {time}",
+  "@resendCodeIn": {
+    "placeholders": {
+      "time": {}
+    }
+  },
+
+  "resendCode": "Resend code",
+  "verify": "Verify",
+
+  "enterEmailTitle": "Enter email address",
+  "emailHint": "name@example.com",
+
+  "nameTitle": "What’s your name?",
+  "firstNameHint": "First name",
+  "lastNameHint": "Last name (optional)",
+
+  "termsTitle": "Terms & Privacy",
+  "termsDescription": "Please read and accept our Terms of Service and Privacy Policy to continue.",
+  "acceptTerms": "I agree to Terms & Privacy",
+
+  "allSetTitle": "You’re all set!",
+  "allSetSubtitle": "Your account is ready to use",
+
+  "enableLocationTitle": "Enable location",
+  "enableLocationDescription": "We use your location to show nearby drivers faster.",
+  "allowWhileUsing": "Allow while using app",
+  "notNow": "Not now",
+
+  "homeGreeting": "Hi, {name} 👋",
+  "@homeGreeting": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+
+  "logout": "Logout"
+}

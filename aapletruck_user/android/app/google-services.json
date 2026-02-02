@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "31460097060",
+    "project_id": "aapletruck-platform",
+    "storage_bucket": "aapletruck-platform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31460097060:android:59f78663e36824f8976cb1",
+        "android_client_info": {
+          "package_name": "com.aapletruck.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31460097060-lvo5790v20ek3fqprrbh35nt0n73j6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQqeXdZPfzu0LDJQ5778caTNjfp3EnjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31460097060-lvo5790v20ek3fqprrbh35nt0n73j6im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31460097060:android:3c5e9c5f0a8f0d3b976cb1",
+        "android_client_info": {
+          "package_name": "com.aapletruck.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31460097060-bnkhsspsmrfaukfeqas28n66pkrac0t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aapletruck.user",
+            "certificate_hash": "605d6c7e111733d455fc09c63b0d951d688bdb15"
+          }
+        },
+        {
+          "client_id": "31460097060-lvo5790v20ek3fqprrbh35nt0n73j6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQqeXdZPfzu0LDJQ5778caTNjfp3EnjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31460097060-lvo5790v20ek3fqprrbh35nt0n73j6im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
